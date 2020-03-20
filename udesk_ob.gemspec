@@ -13,5 +13,5 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://www.udesk.cn'
   s.license     = 'Nonstandard'
   s.files       = files
-  s.add_dependency 'redis', '~> 3.1'
+  s.add_dependency 'redis'
 end
